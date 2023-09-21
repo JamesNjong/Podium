@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="vuesaxbrokenmonitor-mobbile" fill-opacity="1">
+    <path d="M1384 -712L1384 -712L1384 -688L1360 -688L1360 -712L1384 -712Z" id="vuesaxbrokenmonitor-mobbile" fill="none" stroke="none" />
+    <g id="vuesaxbrokenmonitor-mobbile">
+      <g id="monitor-mobbile">
+        <path d="M2 6.74003C2 3.37003 2.84 2.53003 6.21 2.53003L16.74 2.53003C20.11 2.53003 20.95 3.37003 20.95 6.74003" id="Vector" fill="none" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M10 16.9501L6.21 16.9501C2.84 16.9501 2 16.1101 2 12.7401L2 10.8501" id="Vector" fill="none" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M10 21.4699L10 16.95" id="Vector" fill="none" fill-rule="evenodd" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M2 12.95L10 12.95" id="Vector" fill="none" fill-rule="evenodd" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M6.74023 21.47L10.0002 21.47" id="Vector" fill="none" fill-rule="evenodd" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M21.9993 12.8001C21.9993 10.4301 21.4093 9.84009 19.0393 9.84009L15.4893 9.84009C13.1193 9.84009 12.5293 10.4301 12.5293 12.8001L12.5293 18.5101C12.5293 20.8801 13.1193 21.4701 15.4893 21.4701L19.0393 21.4701C21.4093 21.4701 21.9993 20.8801 21.9993 18.5101L21.9993 16.9401" id="Vector" fill="none" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M17.2445 18.25L17.2535 18.25" id="Vector" fill="none" fill-rule="evenodd" stroke="#292D32" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M24 0L24 24L0 24L0 0L24 0Z" id="Vector" fill="none" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

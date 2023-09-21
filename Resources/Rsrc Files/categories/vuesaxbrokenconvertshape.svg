@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="vuesaxbrokenconvertshape" fill-opacity="1">
+    <path d="M1384 -712L1384 -712L1384 -688L1360 -688L1360 -712L1384 -712Z" id="vuesaxbrokenconvertshape" fill="none" stroke="none" />
+    <g id="vuesaxbrokenconvertshape">
+      <g id="convertshape">
+        <path d="M18.85 2L16.15 2C13.9 2 13 2.9 13 5.15L13 8.85C13 11.1 13.9 12 16.15 12L18.85 12C21.1 12 22 11.1 22 8.85L22 5.96" id="Vector" fill="none" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M5.15 22L7.85 22C10.1 22 11 21.1 11 18.85L11 15.15C11 12.9 10.1 12 7.85 12L5.15 12C2.9 12 2 12.9 2 15.15L2 18.16" id="Vector" fill="none" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M22 15C22 18.87 18.87 22 15 22L16.05 20.25" id="Vector" fill="none" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M2 9C2 5.13 5.13 2 9 2L7.95 3.75" id="Vector" fill="none" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M24 0L24 24L0 24L0 0L24 0Z" id="Vector" fill="none" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
