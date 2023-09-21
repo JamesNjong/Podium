@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="14.72998px" height="14px" viewBox="0 0 14.72998 14" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="vuesaxbrokensearch-normal" fill-opacity="1">
+    <path d="M14.7301 0L14.7301 0L14.7301 14L0 14L0 0L14.7301 0Z" id="vuesaxbrokensearch-normal" fill="none" stroke="none" />
+    <g id="vuesaxbrokensearch-normal">
+      <g id="search-normal">
+        <path d="M6.75128 1.16667C9.80164 1.16667 12.2751 3.5175 12.2751 6.41667C12.2751 9.31583 9.80164 11.6667 6.75128 11.6667C3.70093 11.6667 1.22751 9.31583 1.22751 6.41667C1.22751 4.375 2.45501 2.60167 4.25331 1.7325" id="Vector" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M13.3436 12.4425C13.8714 11.6958 13.5277 11.0833 12.5825 11.0833C11.8767 11.0833 11.4839 11.6025 11.7049 12.2325C12.0302 13.1658 12.7728 13.2592 13.3436 12.4425Z" id="Vector" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M14.7301 0L14.7301 14L0 14L0 0L14.7301 0Z" id="Vector" fill="none" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

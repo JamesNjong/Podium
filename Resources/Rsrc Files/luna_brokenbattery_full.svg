@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="vuesaxbrokenbattery-full" fill-opacity="1">
+    <path d="M14 0L14 0L14 14L0 14L0 0L14 0Z" id="vuesaxbrokenbattery-full" fill="none" stroke="none" />
+    <g id="vuesaxbrokenbattery-full">
+      <g id="battery-full">
+        <path d="M11.9583 5.54167C12.8333 5.54167 12.8333 5.83333 12.8333 6.41667L12.8333 7.58333C12.8333 8.16667 12.8333 8.45833 11.9583 8.45833" id="Vector" fill="none" stroke="#51C8B9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M3.72217 5.83333C3.91467 6.5975 3.91467 7.4025 3.72217 8.16667" id="Vector" fill="none" stroke="#51C8B9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M5.76383 5.83333C5.95633 6.5975 5.95633 7.4025 5.76383 8.16667" id="Vector" fill="none" stroke="#51C8B9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M7.8055 5.83333C7.998 6.5975 7.998 7.4025 7.8055 8.16667" id="Vector" fill="none" stroke="#51C8B9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M6.39917 2.91667L7.58333 2.91667C9.91667 2.91667 10.5 3.5 10.5 5.83333L10.5 8.16667C10.5 10.5 9.91667 11.0833 7.58333 11.0833L4.08333 11.0833C1.75 11.0833 1.16667 10.5 1.16667 8.16667L1.16667 5.83333C1.16667 3.5 1.75 2.91667 4.08333 2.91667" id="Vector" fill="none" stroke="#51C8B9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M14 0L14 14L0 14L0 0L14 0Z" id="Vector" fill="none" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

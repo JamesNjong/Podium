@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/primary_light"
+    android:padding="@dimen/_34dp">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pwb"
+        android:keepScreenOn="true"
+        app:layout_constraintBottom_toTopOf="@+id/textview_blvrd"
+        app:layout_constraintStart_toStartOf="@id/textview_blvrd"
+        style="@style/p"
+        android:textColor="@color/dark_primary"/>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/blvrdlogo"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/luna_blvrd"
+        app:layout_constraintRight_toLeftOf="@id/textview_blvrd"
+        app:layout_constraintBottom_toBottomOf="@id/textview_blvrd"
+        />
+
+    <TextView
+        android:id="@+id/textview_blvrd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/blvrd"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:textColor="@color/black"
+        style="@style/h1"
+        android:layout_marginBottom="@dimen/_34dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/version"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/blvrdlogo"
+        android:textColor="@color/black"
+        android:gravity="center"
+        style="@style/small"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

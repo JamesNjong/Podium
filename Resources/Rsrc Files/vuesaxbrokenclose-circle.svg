@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="20.955322px" height="20.9552px" viewBox="0 0 20.955322 20.9552" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="vuesaxbrokenclose-circle" fill-opacity="1">
+    <path d="M20.9553 0L20.9553 0L20.9553 20.9552L0 20.9552L0 0L20.9553 0Z" id="vuesaxbrokenclose-circle" fill="none" stroke="none" />
+    <g id="vuesaxbrokenclose-circle">
+      <g id="close-circle">
+        <path d="M12.2154 8.74001L12.9488 8.00657" id="Vector" fill="none" fill-rule="evenodd" stroke="#EE535A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M8.00657 12.9487L10.4077 10.5475" id="Vector" fill="none" fill-rule="evenodd" stroke="#EE535A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M12.9485 12.9485L8.00657 8.00657" id="Vector" fill="none" fill-rule="evenodd" stroke="#EE535A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M3.49254 5.23881C2.40112 6.69694 1.74627 8.51306 1.74627 10.4776C1.74627 15.2973 5.65791 19.209 10.4776 19.209C15.2973 19.209 19.209 15.2973 19.209 10.4776C19.209 5.65791 15.2973 1.74627 10.4776 1.74627C9.22903 1.74627 8.03284 2.00821 6.95888 2.48843" id="Vector" fill="none" stroke="#EE535A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M20.9552 0L20.9552 20.9552L0 20.9552L0 0L20.9552 0Z" id="Vector" fill="none" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
